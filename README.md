@@ -4,7 +4,7 @@ Este es el repositorio oficial de **HackaPunk**, donde encontrarás todos los de
 
 Aquí, podrás acceder a:
 
-🔗 [**Lista de Desafíos**](./desafios/)
+🔗 [**Lista de Desafíos**](./Lista_De_Desafios/)
 
 Dentro de la carpeta de desafíos, encontrarás las siguientes categorías de desafíos:
 
