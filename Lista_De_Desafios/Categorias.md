@@ -2,19 +2,19 @@
 
 ¡Bienvenidos al HackaPunk! Aquí están las emocionantes categorías y el orden recomendado para abordar los desafíos:
 
-1. [**Programación 💻**](./Programación)
+1. [**Programación 💻**](./Lista_De_Desafios/Programación)
    - Resuelve problemas de algoritmos y codificación.
    - Desarrolla soluciones creativas a desafíos de programación.
 
-2. [**Diseño Web 🎨**](./Diseño%20Web)
+2. [**Diseño Web 🎨**](./Lista_De_Desafios/Diseño Web)
    - Crea y diseña páginas web atractivas y funcionales.
    - Implementa soluciones de diseño para desafíos específicos.
 
-3. [**Bases de Datos 📊**](./Bases%20de%20Datos)
+3. [**Bases de Datos 📊**](./Lista_De_Desafios/Bases de Datos)
    - Trabaja con sistemas de gestión de bases de datos.
    - Diseña y optimiza esquemas de bases de datos para resolver problemas.
 
-4. [**Algorítmica 🧮**](./Algorítmica)
+4. [**Algorítmica 🧮**](./Lista_De_Desafios/Algorítmica)
    - Aborda desafíos relacionados con algoritmos y estructuras de datos.
    - Desarrolla algoritmos eficientes y soluciones algorítmicas.
 
