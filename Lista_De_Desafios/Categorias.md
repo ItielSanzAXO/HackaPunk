@@ -2,21 +2,21 @@
 
 ¡Bienvenidos al HackaPunk! Aquí están las emocionantes categorías y el orden recomendado para abordar los desafíos:
 
-1. [**Programación 💻**](Programación/Programación.md)
-   - Resuelve problemas de algoritmos y codificación.
-   - Desarrolla soluciones creativas a desafíos de programación.
+1. [**Programación 001 💻**](Programación/Programación.md)
+   - En este nivel los participantes se familizaran con los conceptos b{ascios de programación.
+   - Variables, tipos de datos, estructuras de control.
 
-2. [**Diseño Web 🎨**](Diseño%20Web/Diseño%20Web.md)
-   - Crea y diseña páginas web atractivas y funcionales.
-   - Implementa soluciones de diseño para desafíos específicos.
+2. [**Programación basica 🎨**](Diseño%20Web/Diseño%20Web.md)
+   - Tocaran conceptos un poco mas anvanzados.
+   - Clases, metodos y objetos.
 
-3. [**Bases de Datos 📊**](Bases%20de%20Datos/Bases%20de%20Datos.md)
-   - Trabaja con sistemas de gestión de bases de datos.
-   - Diseña y optimiza esquemas de bases de datos para resolver problemas.
+3. [**Programación intermedia 📊**](Bases%20de%20Datos/Bases%20de%20Datos.md)
+   - Nos adentraremos en programación avanzada y algoritmos mas complejos.
+   - Algoritmos de búsqueda y ordenación, árboles, grafos.
 
-4. [**Algorítmica 🧮**](Algorítmica/Algorítmia.md)
-   - Aborda desafíos relacionados con algoritmos y estructuras de datos.
-   - Desarrolla algoritmos eficientes y soluciones algorítmicas.
+4. [**Programación avanzada 🧮**](Algorítmica/Algorítmia.md)
+   - Optimizacion de algoritmos
+   - Eficiencia y precisión
 
 Puedes hacer clic en cada categoría para acceder a las carpetas con los desafíos específicos y reglas. ¡Diviértete y aprende mientras resuelves estos emocionantes retos! 🚀
 
