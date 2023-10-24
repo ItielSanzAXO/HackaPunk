@@ -8,10 +8,10 @@ Aquí, podrás acceder a:
 
 Dentro de la carpeta de desafíos, encontrarás las siguientes categorías de desafíos:
 
-1. **Programación**
-2. **Diseño Web**
-3. **Bases de Datos**
-4. **Algorítmica**
+1. **Programación level 1**
+2. **Programación level 2**
+3. **Programación level 3**
+4. **Programación level 4**
 
 Dentro de cada carpeta, encontrarás desafíos específicos junto con las reglas para cada uno. Asegúrate de revisar las reglas cuidadosamente antes de comenzar.
 
